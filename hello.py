@@ -1,1 +1,1 @@
-Print("Hello Github Actions")
+print("Hello Github Actions")
